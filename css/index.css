@@ -1,3 +1,11 @@
+.pagewrap {
+	width: 100%
+}
+
+header {
+	width: 100%
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
