@@ -4,12 +4,8 @@ ul {
 	padding: 0;
 	width: 200px;
 	overflow: hidden;
-	background-color: #1f1f1f;
+	background-color: #f1f1f1;
 }
-        
-li {
-	float: left;
-} 
         
 li a {
 	display: block;
